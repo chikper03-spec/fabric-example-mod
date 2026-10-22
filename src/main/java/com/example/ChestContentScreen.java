@@ -45,3 +45,4 @@ public class ChestContentScreen extends Screen {
         return false;
     }
 }
+ 
